@@ -1,6 +1,6 @@
 {
   "name": "anidesign",
-  "version": "1.1.0-beta.2",
+  "version": "1.0.0",
   "description": "Đây là một thư viện UI, giúp cải thiện quá trình tạo giao diện người dùng.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -11,7 +11,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/fo-nhan/2ani-ui"
+    "url": "https://github.com/fo-nhan/Ani-Design"
   },
   "homepage": "https://ui.ani2am.me/",
   "scripts": {

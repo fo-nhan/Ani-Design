@@ -19,7 +19,7 @@ https://ui.ani2am.me/
 
 ## Jointly develop the project
 
-https://github.com/fo-nhan/anidesign
+https://github.com/fo-nhan/Ani-Design
 
 ## Installing Ani Design
 
