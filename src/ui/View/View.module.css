@@ -1,0 +1,15 @@
+.viewImage {
+  opacity: 0;
+  transition: opacity 0.3s ease-in-out;
+  max-width: 100%;
+  display: block; 
+}
+
+.viewImage.loaded {
+  opacity: 1;
+}
+
+.skeleton {
+  width: 100%;
+  height: 100%;
+}
